@@ -1,6 +1,13 @@
 # NLP-Salary-Prediction
 ## Prediction of salary using text analysis
 
+## Data Description
+
+Please use the following link to download the data : 
+http://www.kaggle.com/c/job-salary-prediction
+
+Use training dataset train_rev1
+
 ## Project description
 Predict salary from job description; the idea here is to test the predictive power of text and compare it with that of numeric data
 
