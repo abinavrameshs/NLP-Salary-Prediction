@@ -24,3 +24,5 @@ There are 3 classification models that were built for determining the salary ran
 3. Hybrid model (using both numerical and text predictors)
 
 The above models were then compared using accuracy score.
+
+For detailed information on the project, please view the document attached in the repository.
